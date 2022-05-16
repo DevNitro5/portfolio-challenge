@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .contacts {
+    @apply flex text-gray-500 text-sm;
+  }
+  .icon{
+    @apply  mr-2  text-sm !important;
+  }
+  .section{
+    @apply bg-white shadow-3xl rounded-2xl p-7;
+  }
+  .progress{
+    @apply bg-gray-300 relative rounded-2xl  h-[0.6rem] w-[45%] self-center after:absolute after:top-0 after:rounded-2xl  after:z-10 after:h-full after:bg-blue-600;
+  }
+  .date{
+    @apply  text-sm text-gray-400;
+  }
+  .about-job{
+    @apply  text-sm text-gray-400 max-w-[14.7rem] mt-3;
+  }
+  .btn{
+    @apply px-5 py-2 rounded-xl;
+  }
+  .demo-btn{
+    @apply bg-blue-500 text-white hover:text-black hover:bg-white hover:border-[1px] hover:border-black;
+  }
+  .code-btn{
+     @apply hover:bg-blue-500 hover:text-white text-black hover:border-0 bg-white border-[1px] border-black ml-4;
+  }
+}
