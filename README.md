@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://interior-design-project-2022.netlify.app/">
+    <a href="https://devnitro5.github.io/portfolio-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/erYIoT3CZAGJ0cpVxeys">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ![screenshot](./preview.png) -->
 
-- View the [live demo](https://interior-design-project-2022.netlify.app/)
+- View the [live demo](https://devnitro5.github.io/portfolio-challenge/)
 - 3rd Dev Challenges project
 - Mobile first
 
