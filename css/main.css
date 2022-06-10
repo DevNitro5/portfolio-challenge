@@ -692,6 +692,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 0.75rem;
 }
 
+.flex{
+ display:flex;
+}
+
 .rounded-2xl{
   border-radius: 1rem;
 }
