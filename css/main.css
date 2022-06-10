@@ -691,8 +691,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 0.75rem;
 }
 
-.flex{
- display:flex;
+.flexs{
+
  flex-wrap:wrap;
  gap:1rem;
 }
